@@ -91,6 +91,8 @@ Confusion matrix heatmap
 ✅ Naive Bayes/Logistic Regression performed best for text classification
 
 ✅ Visualizations reveal strong word usage differences between fake and real news
+<img width="759" height="504" alt="image" src="https://github.com/user-attachments/assets/d1df769c-303d-46b8-83b6-6ae8174c4f81" />
+
 
 🛠️ Tech Stack
 
